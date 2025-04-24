@@ -1,3 +1,47 @@
+Repositório dedicado aos meus estudos do curso de Python Avançado oferecido pelo canal [DATAV](https://www.youtube.com/@datav9580) no YouTube, além de um projeto prático de ETL e análise de dados com Python, Power BI e Figma.
+
+Aqui estão reunidos scripts, anotações e exemplos práticos dos conteúdos abordados no curso, além de um projeto completo de análise de acidentes rodoviários no Brasil.
+
+---
+
+## 📚 Conteúdos estudados no curso (em andamento):
+
+- ✅ **Funções:**
+  - `def`
+  - Função `lambda`
+- ✅ **Estruturas de repetição:**
+  - `while`
+  - `for`
+- ✅ **Condicionais:**
+  - `if`
+  - Tratamento de erros com `try` / `except`
+- ✅ **Métodos de string:**
+  - `capitalize`
+  - `upper`
+  - `lower`
+  - `isdigit`
+  - `replace`
+  - `split`
+  - `startswith` / `endswith`
+  - `strip`
+- ✅ **Estruturas de dados:**
+  - Listas
+    - Criação e manipulação
+    - Fatiamento (`lista[início:fim:passo]`)
+    - Métodos como `.append()`, `.remove()`, `.count()` etc.
+  - Dicionários
+  - Tuplas
+- ✅ **Módulos e pacotes:**
+  - `datetime`
+  - `math`
+  - `random`
+  - `time`
+- ✅ **Estatística básica**
+
+> ⚠️ Novos conteúdos serão adicionados em futuros commits.
+
+
+
 Este repositório contém um projeto de ETL e análise de dados utilizando Python (pandas), Power BI e Figma, baseado em registros de acidentes rodoviários da Polícia Rodoviária Federal (PRF) entre 2017 e 2023. O objetivo foi estruturar e transformar os dados para facilitar a análise e geração de insights estratégicos.
 
 🚀 Tecnologias Utilizadas
